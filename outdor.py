@@ -56,7 +56,7 @@ def back():
 # BANNER
 def banner():
 	clear()
-	wel = '# SELAMAT kontol'
+	wel = '# jangan di recod kontol'
 	wel2 = mark(wel, style='blue')
 	sol().print(wel2)
 	au='   ••• Author : nurminxv ••• Github : nurminxv••• \n  _____   ______ _______ _______ _____ _     _ _______ \n |_____] |_____/ |______ |  |  |   |   |     | |  |  |   \n |       |    \_ |______ |  |  | __|__ |_____| |  |  | ANJAI AKU BOHONG'                                             
